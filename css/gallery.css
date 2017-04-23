@@ -1,0 +1,112 @@
+
+
+body {
+  background-color: #232328 !important;
+ 
+ }
+
+h1 {
+	border:solid;
+	border-right:none;
+	border-left:none;
+	border-width:2px;
+	border-color: #ffa;
+}
+
+.toolbar a {
+	text-shadow: -4px 2px 3px #ffc;
+	color: #ffc;
+	font-size: 13px;
+	font-family: Futura;
+	font-weight:bolder;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	
+}
+
+.toolbar li {
+	margin: 5px;
+	border: solid;
+	border-width:1px;
+	display: inline;
+	padding-top: 2px;
+	padding-bottom: 1px;
+}
+
+.row
+{
+	background-image:url('AudreyImages/Album Artwork/BIrds of Spray CD Original Heads-201.jpg');
+	text-shadow: -4px 2px 3px #000;
+	font-family: Futura;
+	font-size: 11px;
+	color: #ffc;
+	text-transform: uppercase;
+}
+
+.row h4 {
+	font-size: 14px;
+	border-radius: 2px;
+}
+
+
+.welcome {
+	height: 100px;
+	color: #ff9;
+    text-shadow: -2px 2px 3px #fff;
+	font-size: 11px;
+	font-family: Futura;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.thumbnail {
+	position: relative;
+	max-height: 400px;
+	max-width: 250px;
+	background-color: #000 !important;
+	border-width: 2px !important; 
+	border-color: #ffc !important;
+}
+
+.all a {
+	color: #ffc !important;
+}
+
+.banjo {
+	color: #fff;
+	font-size: 10px !important;
+	text-align: center;
+	text-transform: lowercase;
+}
+
+
+
+/*
+.leftpart {
+ 	height: 650px;
+	background-image: url('images/box.png');
+}
+
+.centerpart {
+ 	height: 650px;
+	background-image: url('images/box.png');
+}
+
+.rightpart {
+ 	height: 650px;
+	background-image: url('images/box.png');
+}
+*/
+
+/*.sidebar img {
+	position: relative;
+	top: 110px;
+	width: 70px;
+	height: 400px;
+	border-width: 3px;
+	border-color: #FF5050;
+	border-radius: 5px;
+}
+*/
+
+

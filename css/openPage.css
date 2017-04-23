@@ -1,0 +1,48 @@
+
+
+body {
+	background-color: #000 !important;
+	background-image: url('AudreyImages/photography/1235467_571484529882_653625557_n.jpg'); 
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+.heading {
+	font-family: Avant Garde, serif;
+	color: #000;
+}
+
+.heading p {
+	color: #000000;
+	text-transform: uppercase;
+	font-style: bold;
+}
+
+.music h4 {
+	text-shadow: -2px 2px 3px #fff;
+	font-family: Tahoma;
+	font-size: 50px;
+	color: #000;
+	text-transform: uppercase;
+	margin-top: 300px;
+	border: solid;
+	border-color: #fff;
+
+}
+
+.art h4 {
+	top: 200px;
+	text-shadow: -2px 2px 3px #000;
+	font-family: Tahoma;
+	font-size: 50px;
+	color: #fff;
+	text-transform: uppercase;
+	margin-top: 300px;
+	border: solid;
+	border-color: #000;
+}
+
+#invis {
+	visibility: hidden;
+	}
+
+

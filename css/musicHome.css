@@ -1,0 +1,171 @@
+
+
+body {
+	/*background-image: url('AudreyImages/music/Michael performing in Junes Musical Spectacular.jpg');*/
+	background-size: 100%;
+	background-color: #232328 !important;
+}
+
+.about {
+	background-image: url('AudreyImages/music/Michael rocking out to his own composition of _Grapefruit_.png');
+	padding-top: 20px;
+	height: 500px;
+}
+.toolbar a {
+	text-shadow: -4px 2px 3px #FFB2B2;
+	color: 5a5A5a;
+	font-family: Futura;
+	font-weight: bolder;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	background-color: #0a9a9a !important;
+	width: 150px;
+	border: solid !important;
+	border-color: #999999 !important;
+	opacity: .99;
+	left: 8px;
+	border-radius: 9px;
+}
+
+.portrait {
+	padding-left: 14px;
+	padding-top: 60px;
+}
+
+ul {
+	background-color: #aaa !important;
+	width: 170px;
+	border-width: 20px;
+	border:solid;
+	font-size: 14px;
+	opacity: .95;
+	border-radius: 9px;
+}
+
+.Title {
+	text-transform: uppercase;
+	font-style: bold;
+	font-family: Futura;
+	font-size: 30px;
+	text-decoration: underline;
+	color: #0a9a9a;
+	text-shadow: -4px 2px 3px #000;
+	text-align: center;
+}
+
+li {
+	margin-bottom: 24px !important;
+}
+.pic1 {
+	background-image: url('AudreyImages/music/IMG951654.jpg');
+}
+
+.pic2 {
+	background-image: url('AudreyImages/music/Brynne, voice student, got the lead in her schools production of Willy Wonka.jpg');
+}
+
+.pic3 {
+		background-image: url('AudreyImages/music/IMG952343.jpg');
+
+}
+
+.video {
+	padding-top: 40px;
+}
+
+.vid1 {
+	padding:10px;
+	color: #fff;
+}
+
+.inform {
+	font-family: Gill Sans, Sans-Serif;
+	width:600px;
+    background-color: #0a9a9a;
+    opacity: .89;
+	padding: 10px;
+	margin: 20px;
+	border: solid;
+	border-color: #999999 !important;
+}
+
+.informwide1 {
+	font-family: Gill Sans, Sans-Serif;
+	width: 600px;
+    background-color: #0a9a9a;
+    opacity: .97;
+	padding: 10px;
+	margin: 20px;
+	border: solid;
+	border-color: #999999 !important;
+	padding-bottom: 0px !important;
+}
+
+
+.informwide2 {
+	font-family: Gill Sans, Sans-Serif;
+	width: 600px;
+    background-color: #0a9a9a;
+    opacity: .97;
+	padding: 10px;
+	margin: 20px;
+	border: solid;
+	border-color: #999999 !important;
+}
+
+
+.inform2 {
+	font-family: Gill Sans, Sans-Serif;
+	font-size: 16px;
+	text-align: justify;
+    top: 400px !important;
+	top:100px;
+	margin-left: 33px;
+	width:250px;
+    background-color: #0a9a9a;
+    opacity: .89;
+	padding: 15px;
+	margin-top: 0px;
+	padding-top:10px;
+	border: solid;
+	border-color: #999999 !important;
+	left: 30px !important;
+	text-align: center;
+}
+
+.inform3 {
+	font-family: Gill Sans, Sans-Serif;
+	font-size: 17px;
+	text-align: justify;
+    top: 400px !important;
+	top:100px;
+	margin-left: 33px;
+	width: 500px;
+    background-color: #0a9a9a;
+    opacity: .89;
+	padding: 15px;
+	margin-top: 0px;
+	padding-top:10px;
+	border: solid;
+	border-color: #999999 !important;
+	left: 30px !important;
+	text-align: center;
+}
+
+.msp {
+	font-size: 20px;
+	text-align: center;
+}
+
+.banjo {
+	color: #fff;
+	font-size: 10px;
+}
+
+.h5 {
+	color: #fff;
+}
+
+
+
+

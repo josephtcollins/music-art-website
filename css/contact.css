@@ -1,0 +1,43 @@
+
+
+body {
+  background-color: #fff!important;
+ 
+ }
+
+h1 {
+  border:solid;
+  border-right:none;
+  border-left:none;
+  border-width:2px;
+  border-color: #000;
+    text-shadow: -4px 2px 3px #0aa;
+
+}
+
+.toolbar a {
+  margin-top: 20px;
+  text-shadow: -4px 2px 3px #0aa;
+  color: #000;
+  font-size: 19px;
+  font-family: Futura;
+  font-weight:bolder;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  
+}
+
+.toolbar li {
+  margin: 5px;
+  border: solid;
+  border-width:0px;
+  display: inline;
+  padding-top: 2px;
+  padding-bottom: 1px;
+}
+
+.contact {
+  text-align: center;
+}
+
+

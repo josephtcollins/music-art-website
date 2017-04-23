@@ -1,0 +1,56 @@
+
+
+body {
+  background-color: #232328 !important;
+ 
+ }
+
+h1 {
+	border:solid;
+	border-right:none;
+	border-left:none;
+	border-width:2px;
+	border-color: #ffa;
+}
+
+.toolbar a {
+	text-shadow: -4px 2px 3px #ffc;
+	color: #ffc;
+	font-size: 13px;
+	font-family: Futura;
+	font-weight:bolder;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	
+}
+
+.toolbar li {
+	margin: 5px;
+	border: solid;
+	border-width:1px;
+	display: inline;
+	padding-top: 2px;
+	padding-bottom: 1px;
+}
+
+
+.welcome {
+	height: 100px;
+	color: #ff9;
+    text-shadow: -2px 2px 3px #fff;
+	font-size: 11px;
+	font-family: Futura;
+	font-weight: bolder;
+	text-transform: uppercase;
+}
+
+.statement {
+	color: #ffc;
+	text-align: center;
+	border:solid;
+	border-width:2px;
+	border-color: #ffa;
+}
+
+
+

@@ -1,0 +1,40 @@
+body {
+  background: -webkit-linear-gradient(top,rgba(255,255,200,0),rgba(255,255,200,1)) !important; /*Safari 5.1-6*/
+  background: -o-linear-gradient(right,rgba(255,255,200,0),rgba(255,255,200,1)) !important; /*Opera 11.1-12*/
+  background: -moz-linear-gradient(right,rgba(255,255,200,0),rgba(255,255,200,1)) !important; /*Fx 3.6-15*/
+  background: linear-gradient(to bottom, rgba(255,255,200,0), rgba(248,192,21,.7)) !important; /*Standard*/
+}
+
+
+.toolbar a {
+	text-shadow: -4px 2px 3px #FFB2B2;
+	color: 5a5A5a;
+	font-size 11px;
+	font-family: Futura;
+	font-weight:bolder;
+	padding: 14px 10px;
+	text-transform: uppercase;
+}
+
+.toolbar li {
+	display: inline;
+}
+
+.welcome {
+	background-image:url('images/yeller.jpg');
+	border-style:solid;
+	border-radius: 25px;
+	border-width: 3px;
+	border-color: #000000;
+	height: 100px;
+    text-shadow: -4px 2px 3px #FFB2B2;
+	color: 5a5A5a;
+	font-size 11px;
+	font-family: Futura;
+	font-weight:bolder;
+}
+
+.welcome {
+	color:black;
+}
+]

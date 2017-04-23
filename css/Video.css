@@ -1,0 +1,65 @@
+
+
+body {
+	/*background-image: url('AudreyImages/music/Michael performing in Junes Musical Spectacular.jpg');*/
+	background-size: 100%;
+}
+
+.aoutt {
+	background-image: url('AudreyImages/music/Michael performing in Junes Musical Spectacular.jpg');
+	padding-top: 20px;
+	height: 500px;
+}
+.toolbar a {
+	text-shadow: -4px 2px 3px #FFB2B2;
+	color: 5a5A5a;
+	font-family: Futura;
+	font-weight: bolder;
+	padding: 14px 10px;
+	text-transform: uppercase;
+	background-color: #0a9a9a !important;
+	width: 150px;
+	border: solid !important;
+	border-color: #999999 !important;
+	opacity: .8;
+	left: 8px;
+	border-radius: 9px;
+}
+
+
+ul {
+	background-color: #aaa !important;
+	width: 170px;
+	border-width: 20px;
+	border:solid;
+	font-size: 11px;
+	opacity: .9;
+	border-radius: 9px;
+}
+
+.Title {
+	text-transform: uppercase;
+	font-style: bold;
+	font-family: Futura;
+	font-size: 30px;
+	text-decoration: underline;
+	color: #0a9a9a;
+	text-shadow: -4px 2px 3px #000;
+	text-align: center;
+}
+
+li {
+	margin-bottom: 30px !important;
+}
+s
+h5 {
+	color: #fff;
+}
+
+
+
+
+
+
+
+
